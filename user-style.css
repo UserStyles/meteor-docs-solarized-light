@@ -3,7 +3,7 @@
 		color:#586e75 !important;
 	}
 
-	body {
+	body, #nav {
 		background:#eee8d5;
 	}
 
@@ -11,7 +11,7 @@
 		color:#2aa198 !important;
 	}
 
-	code, pre {
+	code, pre, .note {
 		color:#b58900 !important;
 		background:#fdf6e3 !important;
 	}
